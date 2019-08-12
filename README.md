@@ -65,3 +65,5 @@ Para uma melhor fluides da nossa conversa, atente-se aos seguintes pontos:
   * Explique as decisões de design adotadas para a solução,
   * Descreva sua APÌ Rest de forma simplificada.
 
+# Uso do algorítmo de Dijkstra (teoria dos Grafos)
+* Foram usadas peças de vários modelos já existentes para elaboração do código.
